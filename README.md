@@ -6,4 +6,4 @@ its my first git repo - beginner
 # header
 **bold**
 *ita*
-[](http://google.com)
+[google](http://google.com)
