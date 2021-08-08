@@ -1,9 +1,9 @@
 # first_git_rep
 its my first git repo - beginner
 
-##header 1 
-###header 2
-#header
+## header 1 
+### header 2
+# header
 **bold**
 *ita*
-[](www.google.com)
+[](http://google.com)
